@@ -10,7 +10,6 @@ This project is a Django application focused on user authentication, providing s
 - Password reset: Password reset functionality via email, allowing users to regain access to their accounts if they forget their passwords.
 - Customizable user model: Custom user model included for flexibility in extending user functionality.
 - CSRF protection: Protects against Cross-Site Request Forgery attacks.
-- Session management: Handles user sessions securely.
 
 ## Installation
 
